@@ -1,6 +1,7 @@
 # CP4-C#
 
 Processador Assíncrono de Arquivos de Texto - README Técnico
+
 Este documento detalha a implementação técnica do projeto, explicando a estrutura do código e as escolhas de arquitetura para atender aos requisitos.
 
 💡 Concepção e Estrutura do Projeto
